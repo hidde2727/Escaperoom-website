@@ -21,6 +21,6 @@
     </style>
     
     <a>©2023 Hidde Meiburg</a>
-    <a id="githubLink" style="margin-left:auto;" href="https://github.com/hidde2727/Escaperoom-USG-2023-duurzaamheid">Code op Github</a>
+    <a id="githubLink" style="margin-left:auto;" href="https://github.com/hidde2727/Escaperoom-website/tree/main">Code op Github</a>
 
 </footer>
